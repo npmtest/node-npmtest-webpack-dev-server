@@ -1,4 +1,7 @@
-# test coverage for  [webpack-dev-server (v2.4.2)](http://github.com/webpack/webpack-dev-server)  [![npm package](https://img.shields.io/npm/v/npmtest-webpack-dev-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webpack-dev-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webpack-dev-server.svg)](https://travis-ci.org/npmtest/node-npmtest-webpack-dev-server)
+# npmtest-webpack-dev-server
+
+#### basic test coverage for  [webpack-dev-server (v2.4.2)](http://github.com/webpack/webpack-dev-server)  [![npm package](https://img.shields.io/npm/v/npmtest-webpack-dev-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-webpack-dev-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-webpack-dev-server.svg)](https://travis-ci.org/npmtest/node-npmtest-webpack-dev-server)
+
 #### Serves a webpack app. Updates the browser on changes.
 
 [![NPM](https://nodei.co/npm/webpack-dev-server.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/webpack-dev-server)
